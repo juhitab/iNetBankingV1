@@ -1,0 +1,439 @@
+2024-03-23 12:17:01,169 - eBanking -INFO - Base
+2024-03-23 12:17:01,279 - eBanking -INFO - Opening site...
+2024-03-23 12:17:20,424 - eBanking -INFO - Trying to log in...
+2024-03-23 12:17:22,031 - eBanking -INFO - Browser closed
+2024-03-23 14:19:01,167 - eBanking -INFO - Opening site...
+2024-03-23 14:19:11,552 - eBanking -INFO - Site opened
+2024-03-23 14:19:21,531 - eBanking -INFO - Trying to log in...
+2024-03-23 14:19:22,114 - eBanking -INFO - Browser closed
+2024-03-23 14:30:56,851 - eBanking -INFO - Opening site...
+2024-03-23 14:31:00,880 - eBanking -INFO - Browser closed
+2024-03-23 14:32:17,970 - eBanking -INFO - Opening site...
+2024-03-23 14:32:23,414 - eBanking -INFO - Browser closed
+2024-03-23 14:32:56,174 - eBanking -INFO - Opening site...
+2024-03-23 14:33:14,596 - eBanking -INFO - Trying to log in...
+2024-03-23 14:33:15,023 - eBanking -INFO - Browser closed
+2024-03-23 14:34:50,411 - eBanking -INFO - Opening site...
+2024-03-23 14:35:04,645 - eBanking -INFO - Trying to log in...
+2024-03-23 14:35:05,072 - eBanking -INFO - Browser closed
+2024-03-23 14:36:56,726 - eBanking -INFO - Opening site...
+2024-03-23 14:37:14,573 - eBanking -INFO - Trying to log in...
+2024-03-23 14:37:15,032 - eBanking -INFO - Browser closed
+2024-03-23 14:38:16,562 - eBanking -INFO - Opening site...
+2024-03-23 14:38:20,584 - eBanking -INFO - Browser closed
+2024-03-23 14:41:42,319 - eBanking -INFO - Opening site...
+2024-03-23 14:42:02,096 - eBanking -INFO - Site opened
+2024-03-23 14:42:13,197 - eBanking -INFO - Trying to log in...
+2024-03-23 14:42:13,715 - eBanking -INFO - Browser closed
+2024-03-23 14:42:51,190 - eBanking -INFO - Opening site...
+2024-03-23 14:42:56,689 - eBanking -INFO - Browser closed
+2024-03-23 14:48:12,619 - eBanking -INFO - Opening site...
+2024-03-23 14:48:17,380 - eBanking -INFO - Browser closed
+2024-03-23 14:48:46,788 - eBanking -INFO - Opening site...
+2024-03-23 14:49:34,840 - eBanking -INFO - Trying to log in...
+2024-03-23 14:49:35,342 - eBanking -INFO - Browser closed
+2024-03-23 14:51:15,673 - eBanking -INFO - Opening site...
+2024-03-23 14:51:31,138 - eBanking -INFO - Trying to log in...
+2024-03-23 14:51:31,575 - eBanking -INFO - Browser closed
+2024-03-23 16:12:37,365 - eBanking -INFO - Opening site...
+2024-03-23 16:12:51,258 - eBanking -INFO - Browser closed
+2024-03-23 16:15:07,767 - eBanking -INFO - Opening site...
+2024-03-23 16:17:39,311 - eBanking -INFO - Opening site...
+2024-03-23 16:17:55,668 - eBanking -ERROR - Site could not open
+2024-03-23 16:17:55,669 - eBanking -INFO - Site opened
+2024-03-23 16:18:03,023 - eBanking -INFO - Trying to log in...
+2024-03-23 16:18:03,663 - eBanking -INFO - Browser closed
+2024-03-23 20:30:45,214 - eBanking -INFO - Opening site...
+2024-03-23 20:31:04,430 - eBanking -INFO - Site opened
+2024-03-23 20:31:05,453 - eBanking -INFO - Trying to log in...
+2024-03-23 20:31:13,398 - eBanking -ERROR - Login failed
+2024-03-23 20:31:15,749 - eBanking -INFO - Browser closed
+2024-03-23 20:33:06,115 - eBanking -INFO - Opening site...
+2024-03-23 20:33:50,425 - eBanking -INFO - Site opened
+2024-03-23 20:33:50,702 - eBanking -INFO - Trying to log in...
+2024-03-23 20:33:53,451 - eBanking -INFO - Logged in successfully
+2024-03-23 20:33:53,697 - eBanking -INFO - Browser closed
+2024-03-23 23:24:15,716 - eBanking -INFO - Opening site...
+2024-03-23 23:24:45,838 - eBanking -INFO - Site opened
+2024-03-23 23:24:52,610 - eBanking -INFO - Trying to log in...
+2024-03-23 23:25:06,262 - eBanking -INFO - Logged in successfully
+2024-03-23 23:25:07,662 - eBanking -INFO - Browser closed
+2024-03-24 00:13:31,968 - eBanking -INFO - Opening site...
+2024-03-24 00:14:10,085 - eBanking -INFO - Site opened
+2024-03-24 00:14:19,699 - eBanking -INFO - Trying to log in...
+2024-03-24 00:14:46,023 - eBanking -INFO - Logged in successfully
+2024-03-24 00:15:27,960 - eBanking -INFO - Browser closed
+2024-03-24 11:15:19,017 - eBanking -INFO - Opening site...
+2024-03-24 11:15:45,106 - eBanking -INFO - Site opened
+2024-03-24 11:15:45,842 - eBanking -INFO - Trying to log in...
+2024-03-24 11:15:53,220 - eBanking -INFO - Logged in successfully
+2024-03-24 11:15:54,465 - eBanking -INFO - Browser closed
+2024-03-24 11:16:38,873 - eBanking -INFO - Opening site...
+2024-03-24 11:17:15,809 - eBanking -INFO - Site opened
+2024-03-24 11:17:25,141 - eBanking -INFO - Trying to log in...
+2024-03-24 11:17:38,394 - eBanking -INFO - Logged in successfully
+2024-03-24 11:17:59,381 - eBanking -INFO - Browser closed
+2024-03-24 14:17:49,036 - eBanking -INFO - Opening site...
+2024-03-24 14:18:00,966 - eBanking -INFO - Opening site...
+2024-03-24 14:18:26,691 - eBanking -INFO - Site opened
+2024-03-24 14:18:30,126 - eBanking -INFO - Trying to log in...
+2024-03-24 14:18:38,151 - eBanking -INFO - Logged in successfully
+2024-03-24 14:18:52,473 - eBanking -INFO - Site opened
+2024-03-24 14:18:52,698 - eBanking -INFO - Trying to log in...
+2024-03-24 14:18:58,705 - eBanking -INFO - Logged in successfully
+2024-03-24 14:19:01,695 - eBanking -INFO - Browser closed
+2024-03-24 14:21:14,600 - eBanking -INFO - Opening site...
+2024-03-24 14:21:31,199 - eBanking -INFO - Site opened
+2024-03-24 14:21:32,661 - eBanking -INFO - Trying to log in...
+2024-03-24 14:21:35,910 - eBanking -INFO - Logged in successfully
+2024-03-24 14:21:36,165 - eBanking -INFO - Browser closed
+2024-03-24 14:46:44,344 - eBanking -INFO - Opening site...
+2024-03-24 14:46:58,525 - eBanking -INFO - Site opened
+2024-03-24 14:47:01,056 - eBanking -INFO - Trying to log in...
+2024-03-24 14:47:07,216 - eBanking -INFO - Logged in successfully
+2024-03-24 14:47:08,111 - eBanking -INFO - Browser closed
+2024-03-24 21:31:33,768 - eBanking -INFO - Opening site...
+2024-03-24 21:32:01,469 - eBanking -INFO - Site opened
+2024-03-24 21:32:05,953 - eBanking -INFO - Trying to log in...
+2024-03-24 21:32:21,351 - eBanking -INFO - Screenshot taken
+2024-03-24 21:32:21,352 - eBanking -ERROR - Login failed
+2024-03-24 21:32:29,862 - eBanking -INFO - Browser closed
+2024-03-24 21:38:27,447 - eBanking -INFO - Opening site...
+2024-03-24 21:38:51,967 - eBanking -INFO - Site opened
+2024-03-24 21:38:53,993 - eBanking -INFO - Trying to log in...
+2024-03-24 21:38:54,775 - eBanking -INFO - Browser closed
+2024-03-24 22:21:53,919 - eBanking -INFO - Opening site...
+2024-03-24 22:22:03,645 - eBanking -INFO - Site opened
+2024-03-24 22:22:05,856 - eBanking -INFO - Trying to log in...
+2024-03-24 22:22:06,174 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [903d6b196f60c0d10d2fd23bbb1284d5, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56063}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56063/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 903d6b196f60c0d10d2fd23bbb1284d5
+2024-03-24 22:22:06,962 - eBanking -INFO - Screenshot taken
+2024-03-24 22:22:06,964 - eBanking -ERROR - Login failed
+2024-03-24 22:22:10,907 - eBanking -INFO - Browser closed
+2024-03-24 23:00:54,400 - eBanking -INFO - Opening site...
+2024-03-24 23:01:10,461 - eBanking -INFO - Site opened
+2024-03-24 23:01:12,897 - eBanking -INFO - Trying to log in...
+2024-03-24 23:01:13,431 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [d03e25ec8735c040385a5a5b269be072, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56459}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56459/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: d03e25ec8735c040385a5a5b269be072
+2024-03-24 23:01:13,938 - eBanking -INFO - Screenshot taken
+2024-03-24 23:01:13,940 - eBanking -ERROR - Login failed
+2024-03-24 23:01:14,897 - eBanking -INFO - Browser closed
+2024-03-24 23:14:19,584 - eBanking -INFO - Opening site...
+2024-03-24 23:14:34,013 - eBanking -INFO - Site opened
+2024-03-24 23:14:34,643 - eBanking -INFO - Trying to log in...
+2024-03-24 23:14:34,687 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [37a5c4495ae5db6fba4e4d9ceba049fd, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56613}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56613/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 37a5c4495ae5db6fba4e4d9ceba049fd
+2024-03-24 23:14:35,123 - eBanking -INFO - Browser closed
+2024-03-24 23:22:32,538 - eBanking -INFO - Opening site...
+2024-03-24 23:22:50,977 - eBanking -INFO - Site opened
+2024-03-24 23:22:51,520 - eBanking -INFO - Trying to log in...
+2024-03-24 23:22:51,569 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [abee0f006c42affdda4c86d012177daa, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:56724}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:56724/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: abee0f006c42affdda4c86d012177daa
+2024-03-24 23:22:52,108 - eBanking -INFO - Browser closed
+2024-03-25 22:56:19,524 - eBanking -INFO - Opening site...
+2024-03-25 22:56:32,964 - eBanking -INFO - Site opened
+2024-03-25 22:56:39,558 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e583fc698818c293d925e6c0d8d8c85, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60132}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60132/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e583fc698818c293d925e6c0d8d8c85
+2024-03-25 22:56:39,925 - eBanking -INFO - Screenshot taken
+2024-03-25 22:56:40,212 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e583fc698818c293d925e6c0d8d8c85, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60132}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60132/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e583fc698818c293d925e6c0d8d8c85
+2024-03-25 22:56:40,411 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e583fc698818c293d925e6c0d8d8c85, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60132}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60132/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e583fc698818c293d925e6c0d8d8c85
+2024-03-25 22:56:40,606 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='btnLogi']"}
+  (Session info: chrome=122.0.6261.131)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [2e583fc698818c293d925e6c0d8d8c85, findElement {using=name, value=btnLogi}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 122.0.6261.131, chrome: {chromedriverVersion: 122.0.6261.128 (f18a44fedeb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:60132}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:60132/devtoo..., se:cdpVersion: 122.0.6261.131, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 2e583fc698818c293d925e6c0d8d8c85
+2024-03-25 22:56:40,629 - eBanking -ERROR - Keys to send should be a not null CharSequence
+2024-03-25 22:56:42,425 - eBanking -INFO - Browser closed
+2024-03-25 22:57:45,760 - eBanking -INFO - Opening site...
+2024-03-25 22:58:03,112 - eBanking -INFO - Site opened
+2024-03-25 22:58:10,736 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-25 22:58:12,622 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-25 22:58:19,590 - eBanking -INFO - Screenshot taken
+2024-03-25 22:58:19,593 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-25 22:58:22,698 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-25 22:58:23,338 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-25 22:58:34,619 - eBanking -INFO - Screenshot taken
+2024-03-25 22:58:34,619 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-25 22:58:34,643 - eBanking -ERROR - Keys to send should be a not null CharSequence
+2024-03-25 22:58:35,871 - eBanking -INFO - Browser closed
+2024-03-26 14:14:15,015 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=123.0.6312.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2715651b87223d082cc48aad5f03792, findElement {using=name, value=uid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.59, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55973}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55973/devtoo..., se:cdpVersion: 123.0.6312.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2715651b87223d082cc48aad5f03792
+2024-03-26 14:14:15,261 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=123.0.6312.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2715651b87223d082cc48aad5f03792, findElement {using=name, value=uid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.59, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55973}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55973/devtoo..., se:cdpVersion: 123.0.6312.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2715651b87223d082cc48aad5f03792
+2024-03-26 14:14:15,285 - eBanking -ERROR - no such element: Unable to locate element: {"method":"css selector","selector":"*[name='uid']"}
+  (Session info: chrome=123.0.6312.59)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Build info: version: '4.16.1', revision: '9b4c83354e'
+System info: os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '21.0.1'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [a2715651b87223d082cc48aad5f03792, findElement {using=name, value=uid}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 123.0.6312.59, chrome: {chromedriverVersion: 123.0.6312.58 (6b4b19e9dfbb..., userDataDir: C:\Users\juhit\AppData\Loca...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:55973}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: windows, proxy: Proxy(), se:cdp: ws://localhost:55973/devtoo..., se:cdpVersion: 123.0.6312.59, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a2715651b87223d082cc48aad5f03792
+2024-03-26 14:14:20,511 - eBanking -INFO - Browser closed
+2024-03-26 22:21:03,769 - eBanking -INFO - Opening site...
+2024-03-26 22:22:07,519 - eBanking -INFO - Site opened
+2024-03-26 22:22:30,449 - eBanking -INFO - Browser closed
+2024-03-26 22:47:51,012 - eBanking -INFO - Opening site...
+2024-03-26 22:48:33,748 - eBanking -INFO - Site opened
+2024-03-26 22:49:02,408 - eBanking -INFO - Browser closed
+2024-03-26 23:20:58,703 - eBanking -INFO - Opening site...
+2024-03-26 23:21:09,001 - eBanking -INFO - Site opened
+2024-03-26 23:21:14,145 - eBanking -INFO - Browser closed
+2024-03-26 23:50:28,918 - eBanking -INFO - Opening site...
+2024-03-26 23:50:40,925 - eBanking -INFO - Site opened
+2024-03-26 23:50:53,173 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-26 23:50:56,017 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-26 23:51:03,136 - eBanking -INFO - Screenshot taken
+2024-03-26 23:51:03,137 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-26 23:51:05,738 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-26 23:51:06,129 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-26 23:51:12,349 - eBanking -INFO - Screenshot taken
+2024-03-26 23:51:12,350 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-26 23:51:16,275 - eBanking -INFO - Screenshot taken
+2024-03-26 23:51:16,276 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-26 23:51:17,899 - eBanking -INFO - Browser closed
+2024-03-27 00:26:25,916 - eBanking -INFO - Opening site...
+2024-03-27 00:26:52,873 - eBanking -INFO - Site opened
+2024-03-27 00:27:04,284 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-27 00:27:05,484 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-27 00:27:17,908 - eBanking -INFO - Screenshot taken
+2024-03-27 00:27:17,909 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:27:20,530 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-27 00:27:21,006 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-27 00:27:26,990 - eBanking -INFO - Screenshot taken
+2024-03-27 00:27:26,991 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:27:30,951 - eBanking -INFO - Screenshot taken
+2024-03-27 00:27:30,952 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:27:32,571 - eBanking -INFO - Browser closed
+2024-03-27 00:27:35,409 - eBanking -INFO - Opening site...
+2024-03-27 00:27:50,003 - eBanking -INFO - Site opened
+2024-03-27 00:27:50,243 - eBanking -INFO - Trying to log in...
+2024-03-27 00:27:53,504 - eBanking -INFO - Logged in successfully
+2024-03-27 00:27:54,855 - eBanking -INFO - Browser closed
+2024-03-27 00:37:36,090 - eBanking -INFO - Opening site...
+2024-03-27 00:37:48,379 - eBanking -INFO - Site opened
+2024-03-27 00:37:53,610 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-27 00:37:55,357 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-27 00:38:01,486 - eBanking -INFO - Screenshot taken
+2024-03-27 00:38:01,487 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:38:06,786 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-27 00:38:07,710 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-27 00:38:12,318 - eBanking -INFO - Screenshot taken
+2024-03-27 00:38:12,319 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:38:16,564 - eBanking -INFO - Screenshot taken
+2024-03-27 00:38:16,564 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-27 00:38:17,277 - eBanking -INFO - Browser closed
+2024-03-28 23:37:24,652 - eBanking -INFO - Opening site...
+2024-03-28 23:37:32,741 - eBanking -INFO - Site opened
+2024-03-28 23:37:50,025 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-28 23:37:52,336 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-28 23:38:05,318 - eBanking -INFO - Screenshot taken
+2024-03-28 23:38:05,322 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-28 23:38:07,516 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-28 23:38:08,029 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-28 23:38:25,269 - eBanking -INFO - Screenshot taken
+2024-03-28 23:38:25,270 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-28 23:38:33,007 - eBanking -INFO - Screenshot taken
+2024-03-28 23:38:33,008 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-28 23:38:34,498 - eBanking -INFO - Browser closed
+2024-03-29 00:07:28,871 - eBanking -INFO - Opening site...
+2024-03-29 00:07:49,786 - eBanking -INFO - Site opened
+2024-03-29 00:08:18,404 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 00:08:20,941 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 00:08:31,996 - eBanking -INFO - Screenshot taken
+2024-03-29 00:08:31,997 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 00:08:35,111 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 00:08:37,628 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 00:08:45,984 - eBanking -INFO - Screenshot taken
+2024-03-29 00:08:45,985 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 00:08:53,357 - eBanking -INFO - Screenshot taken
+2024-03-29 00:08:53,358 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 00:08:55,771 - eBanking -INFO - Browser closed
+2024-03-29 00:09:07,191 - eBanking -INFO - Opening site...
+2024-03-29 00:09:24,369 - eBanking -INFO - Site opened
+2024-03-29 00:09:24,972 - eBanking -INFO - Trying to log in...
+2024-03-29 00:09:26,748 - eBanking -INFO - Logged in successfully
+2024-03-29 00:09:27,794 - eBanking -INFO - Browser closed
+2024-03-29 12:57:31,279 - eBanking -INFO - Opening site...
+2024-03-29 12:57:44,258 - eBanking -INFO - Site opened
+2024-03-29 12:57:52,131 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 12:57:53,812 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 12:58:02,510 - eBanking -INFO - Screenshot taken
+2024-03-29 12:58:02,510 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 12:58:05,376 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 12:58:08,978 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 12:58:13,291 - eBanking -INFO - Screenshot taken
+2024-03-29 12:58:13,291 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 12:58:15,743 - eBanking -INFO - Screenshot taken
+2024-03-29 12:58:15,744 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 12:58:17,018 - eBanking -INFO - Browser closed
+2024-03-29 12:58:19,421 - eBanking -INFO - Opening site...
+2024-03-29 12:58:28,768 - eBanking -INFO - Site opened
+2024-03-29 12:58:29,033 - eBanking -INFO - Trying to log in...
+2024-03-29 12:58:34,503 - eBanking -INFO - Logged in successfully
+2024-03-29 12:58:34,748 - eBanking -INFO - Browser closed
+2024-03-29 13:22:45,809 - eBanking -INFO - Opening site...
+2024-03-29 13:22:54,212 - eBanking -INFO - Site opened
+2024-03-29 13:22:57,525 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:22:58,223 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:23:03,053 - eBanking -INFO - Screenshot taken
+2024-03-29 13:23:03,053 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:23:04,988 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:23:05,354 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:23:10,218 - eBanking -INFO - Screenshot taken
+2024-03-29 13:23:10,218 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:23:13,082 - eBanking -INFO - Screenshot taken
+2024-03-29 13:23:13,082 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:23:13,345 - eBanking -INFO - Browser closed
+2024-03-29 13:23:16,332 - eBanking -INFO - Opening site...
+2024-03-29 13:23:29,086 - eBanking -INFO - Site opened
+2024-03-29 13:23:29,325 - eBanking -INFO - Trying to log in...
+2024-03-29 13:23:34,855 - eBanking -INFO - Logged in successfully
+2024-03-29 13:23:35,118 - eBanking -INFO - Browser closed
+2024-03-29 13:30:50,593 - eBanking -INFO - Opening site...
+2024-03-29 13:31:06,908 - eBanking -INFO - Site opened
+2024-03-29 13:31:19,021 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:31:21,112 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:31:26,941 - eBanking -INFO - Screenshot taken
+2024-03-29 13:31:26,941 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:31:30,160 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:31:30,520 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:31:36,503 - eBanking -INFO - Screenshot taken
+2024-03-29 13:31:36,504 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:31:41,770 - eBanking -INFO - Screenshot taken
+2024-03-29 13:31:41,770 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:31:42,674 - eBanking -INFO - Browser closed
+2024-03-29 13:56:05,742 - eBanking -INFO - Opening site...
+2024-03-29 13:56:22,106 - eBanking -INFO - Site opened
+2024-03-29 13:56:36,783 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:56:41,018 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:56:51,379 - eBanking -INFO - Screenshot taken
+2024-03-29 13:56:51,380 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:56:54,859 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 13:56:56,058 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 13:57:10,509 - eBanking -INFO - Screenshot taken
+2024-03-29 13:57:10,511 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:57:21,770 - eBanking -INFO - Screenshot taken
+2024-03-29 13:57:21,770 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 13:57:29,760 - eBanking -INFO - Browser closed
+2024-03-29 14:02:54,903 - eBanking -INFO - Opening site...
+2024-03-29 14:03:11,163 - eBanking -INFO - Site opened
+2024-03-29 14:03:17,930 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 14:03:20,135 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 14:03:26,808 - eBanking -INFO - Screenshot taken
+2024-03-29 14:03:26,809 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 14:03:30,196 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-29 14:03:30,827 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-29 14:03:35,408 - eBanking -INFO - Screenshot taken
+2024-03-29 14:03:35,408 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 14:03:37,830 - eBanking -INFO - Screenshot taken
+2024-03-29 14:03:37,831 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-29 14:03:39,307 - eBanking -INFO - Browser closed
+2024-03-30 19:41:13,349 - eBanking -INFO - Opening site...
+2024-03-30 19:42:42,213 - eBanking -INFO - Site opened
+2024-03-30 19:44:25,299 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-30 19:44:51,055 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-30 19:45:04,614 - eBanking -INFO - Screenshot taken
+2024-03-30 19:45:04,617 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-30 19:45:13,065 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-30 19:45:15,705 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-30 19:45:46,853 - eBanking -INFO - Screenshot taken
+2024-03-30 19:45:46,853 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-30 19:46:06,546 - eBanking -INFO - Screenshot taken
+2024-03-30 19:46:06,546 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-30 19:46:28,305 - eBanking -INFO - Browser closed
+2024-03-31 20:39:00,057 - eBanking -INFO - Opening site...
+2024-03-31 20:39:13,644 - eBanking -INFO - Site opened
+2024-03-31 20:39:25,073 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-31 20:39:27,805 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-31 20:39:36,701 - eBanking -INFO - Screenshot taken
+2024-03-31 20:39:36,701 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 20:39:40,551 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-31 20:39:42,771 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-31 20:39:51,894 - eBanking -INFO - Screenshot taken
+2024-03-31 20:39:51,894 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 20:39:56,663 - eBanking -INFO - Screenshot taken
+2024-03-31 20:39:56,663 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 20:40:00,031 - eBanking -INFO - Browser closed
+2024-03-31 21:26:09,005 - eBanking -INFO - Opening site...
+2024-03-31 21:26:38,227 - eBanking -INFO - Site opened
+2024-03-31 21:26:51,394 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-31 21:26:54,388 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-31 21:27:03,580 - eBanking -INFO - Screenshot taken
+2024-03-31 21:27:03,580 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 21:27:10,218 - eBanking -INFO - mngr561735Logged in successfully
+2024-03-31 21:27:11,640 - eBanking -INFO - mngr561735 Logged out successfully
+2024-03-31 21:27:16,459 - eBanking -INFO - Screenshot taken
+2024-03-31 21:27:16,459 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 21:27:22,371 - eBanking -INFO - Screenshot taken
+2024-03-31 21:27:22,371 - eBanking -WARN - Login failed-Invalid credentials
+2024-03-31 21:27:23,346 - eBanking -INFO - Browser closed

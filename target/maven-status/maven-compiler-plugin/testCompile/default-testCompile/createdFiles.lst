@@ -1,0 +1,8 @@
+com\iNetBankingV1\testCases\BaseClass.class
+com\iNetBankingV1\utilities\ReadConfig.class
+com\iNetBankingV1\pageObjects\LoginPage.class
+com\iNetBankingV1\testCases\DataDrivenLoginTest.class
+com\iNetBankingV1\utilities\XLUtils.class
+com\iNetBankingV1\utilities\ListenersReporting.class
+com\iNetBankingV1\pageObjects\ManagerDashboard.class
+com\iNetBankingV1\testCases\LoginTest.class

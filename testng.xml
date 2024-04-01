@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99 Banking Project">
+	<listeners>
+			<listener class-name ="com.iNetBankingV1.utilities.ListenersReporting"/>
+	</listeners>
+	<test name="Basic Functionality">
+		<parameter name="browser" value="chrome"></parameter>
+	  	<classes>
+	      <!--class name="com.iNetBankingV1.testCases.LoginTest"/-->
+	      <class name="com.iNetBankingV1.testCases.DataDrivenLoginTest"/>
+	      
+		</classes>
+      
+	</test> <!-- Test -->  
+  <!--
+  <test name="Basic Functionality-Firefox">
+	<parameter name="env" value="QA"></parameter>
+      
+      <classes>
+      
+	      <class name="com.iNetBankingV1.testCases.LoginTest"/>
+	      <parameter name="browser" value="firefox"></parameter>
+	      
+      </classes>
+      
+  </test>  -->  
+  
+</suite> <!-- Suite -->
