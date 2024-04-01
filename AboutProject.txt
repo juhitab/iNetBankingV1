@@ -1,1 +1,8 @@
 This project contains the login functionality and data driven testing of Login of Guru99 banking project
+
+Modifying this file to include some more details-
+
+Test cases containing files-
+DataDrivenLoginTest.java
+LoginTest.java
+BaseClass.java (contains common functions to be executed before/after each test class)
